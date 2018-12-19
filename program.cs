@@ -4,7 +4,8 @@
 
 /* Ajout d'une ligne pour l'exemple de modification */
 
-/* Ligne présente dans la branche "uneBranche" mais pas dans la branche "master" */
+/* Ligne prï¿½sente dans la branche "uneBranche" mais pas dans la branche "master" */
+/* Autre modification ligne 8 mais dans la branche master */
 
 using System;
 using System.Collections.Generic;
