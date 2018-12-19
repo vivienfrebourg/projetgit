@@ -5,7 +5,10 @@
 /* Ajout d'une ligne pour l'exemple de modification */
 
 /* Ligne pr�sente dans la branche "uneBranche" mais pas dans la branche "master" */
+
 /* Autre modification ligne 8 mais dans la branche master */
+/* Ligne 8 modifiée dans la branche "uneBranche" */
+
 
 using System;
 using System.Collections.Generic;
