@@ -2,6 +2,7 @@
 ----- Program.cs --------
 -----------------------*/
 
+/* Ajout d'une ligne pour l'exemple de modification */
 
 using System;
 using System.Collections.Generic;
