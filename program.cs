@@ -4,6 +4,8 @@
 
 /* Ajout d'une ligne pour l'exemple de modification */
 
+/* Ligne présente dans la branche "uneBranche" mais pas dans la branche "master" */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
